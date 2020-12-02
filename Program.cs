@@ -28,7 +28,7 @@ namespace BatchProcessingSparkApp
            CleanedProjects = CleanedProjects.Drop("Assertid", "properties", "Value", "TimeSatmp");
            CleanedProjects.Show();
             // Stop Spark session
-            spark.Stop();
+            //spark.Stop();
         }
     }
 }
