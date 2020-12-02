@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ia0SQswftveRr0Z1tFLgI8Hd2bo7ckB63H7cRXNqs//qZZy5EecPlCaOREJe2Wv9ESr7ecNfkG4Al+MF5R+HKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akhilesh\\bin\\spark-2.4.1-bin-hadoop2.7\\BatchProcessingSparkApp\\BatchProcessingSparkApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\apache.arrow\\0.14.1\\apache.arrow.0.14.1.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\microsoft.spark\\0.10.0\\microsoft.spark.0.10.0.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\razorvine.pyrolite\\4.26.0\\razorvine.pyrolite.4.26.0.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\razorvine.serpent\\1.29.0\\razorvine.serpent.1.29.0.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Akhilesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
