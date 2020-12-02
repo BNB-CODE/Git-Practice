@@ -23,12 +23,12 @@ namespace BatchProcessingSparkApp
             //Drop any rows with Null/Empty values
             DataFrameNaFunctions dropEmptytablesrows = dataFrame.Na();
             DataFrame CleanedProjects = dropEmptytablesrows.Drop("any");
-
+            var testdata = 0;
             //remove unnecessary Columns
            CleanedProjects = CleanedProjects.Drop("Assertid", "properties", "Value", "TimeSatmp");
            CleanedProjects.Show();
-            // Stop Spark session
-            //spark.Stop();
+            // Stop Spark session--checked
+            spark.Stop();
         }
     }
 }
